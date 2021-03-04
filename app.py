@@ -6,3 +6,6 @@ def greet(name):
 
 def goodbye(name):
     return name
+
+def Love():
+    print("Love")
